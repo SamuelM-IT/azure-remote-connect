@@ -36,7 +36,8 @@ https://azure.microsoft.com/en-us/get-started/azure-portal
 First step after creating your Azure account, from this dashboard, hover over virtual machines and click on create Azure virtual machine.
 Then, from there it will prompt up another screen and will show as the following picture below this text. 
 
-![Screenshot 2025-04-04 051310](https://github.com/user-attachments/assets/5b38ba80-7270-4196-bedf-ec15576106bb)
+![Screenshot 2025-04-04 051310](https://github.com/user-attachments/assets/22a59595-54d0-461a-8d2a-0d12b6dc5e3d)
+
 
 If you don't have a resource group created already, you can simply create it during this process and name it whatever you like,
 give a name to your virtual machine, I named mine azureuser, and for region you can select the region you're currently in, leave the 
