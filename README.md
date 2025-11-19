@@ -74,7 +74,7 @@ image above, we now have a public ip address and we will use this in order to co
 On your Windows PC or if you're on Mac, open up Remote Desk Connection and enter the public ip address of the virtual machine. Click "Connect". 
 You will then have another screen pop up as shown on the following image down below.
 
-![Screenshot 2025-04-04 051736](https://github.com/user-attachments/assets/49d46d38-6bef-418a-80bf-ab9b5b5bfb1a)
+![Screenshot 2025-04-04 051736](https://github.com/user-attachments/assets/8b52262a-a8f1-4668-8f2d-84a52a82f20c)
 
 Enter the credentials of the virtual machine you created. Click "Ok".
 
