@@ -52,7 +52,7 @@ for the size, this depends on your needs and how fast you want your virtual mach
 and for username, choose a username you won't forget and do the same for your password, keep track of it.
 
 
-![Screenshot 2025-04-04 051410](https://github.com/user-attachments/assets/7f89a869-0e02-4a3b-81d6-b7f789c87ecc)
+![Screenshot 2025-04-04 051410](https://github.com/user-attachments/assets/09b4089d-af1a-4ea8-8050-b9ea30b3f129)
 
 Don't forget to checkmark this box for the licensing rights, after that, you can now click on "Review + create".
 
