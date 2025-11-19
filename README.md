@@ -30,7 +30,8 @@ This tutorial outlines the prerequisites and installation of virtual machines an
 <h2>Installation Steps</h2>
 https://azure.microsoft.com/en-us/get-started/azure-portal
 
-![Screenshot 2025-04-04 051206](https://github.com/user-attachments/assets/2646aa6a-b419-4b5b-9dac-398d253f1dc7)
+![Screenshot 2025-04-04 051206](<img width="1918" height="1031" alt="step 1" src="https://github.com/user-attachments/assets/2ea604ec-300e-4302-9044-82fa8e0cb92c" />
+)
 
 
 First step after creating your Azure account, from this dashboard, hover over virtual machines and click on create Azure virtual machine.
@@ -45,7 +46,7 @@ remaining options as default. Exactly how it shows here on this image provided f
 
 ![Screenshot 2025-04-04 051353](https://github.com/user-attachments/assets/12101717-f744-44f2-8dc0-cbee7b651e64)
 
-For the image we chose Windows 10 because this machine will just be on a client for Windows 10, so select this image,
+For the image we chose Windows 11 because this machine will just be on a client for Windows 11, so select this image,
 for the size, this depends on your needs and how fast you want your virtual machine to operate, but I chose this one, 
 and for username, choose a username you won't forget and do the same for your password, keep track of it.
 
