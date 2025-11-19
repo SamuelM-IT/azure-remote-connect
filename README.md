@@ -30,8 +30,7 @@ This tutorial outlines the prerequisites and installation of virtual machines an
 <h2>Installation Steps</h2>
 https://azure.microsoft.com/en-us/get-started/azure-portal
 
-![Screenshot 2025-04-04 051206](<img width="1918" height="1031" alt="step 1" src="https://github.com/user-attachments/assets/b487ba74-2cf6-4b4b-bc77-d6f233dcc4e5" />
-
+![Screenshot 2025-04-04 051206](https://github.com/user-attachments/assets/618915a5-5d05-4c7b-8ee5-73385620741c)
 
 
 First step after creating your Azure account, from this dashboard, hover over virtual machines and click on create Azure virtual machine.
