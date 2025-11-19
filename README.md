@@ -62,7 +62,8 @@ Don't forget to checkmark this box for the licensing rights, after that, you can
 
 After your page has loaded, click create and the virtual machine will now begin to deploy.
 
-![Screenshot 2025-04-04 051522](https://github.com/user-attachments/assets/b4007e18-c05f-4477-8db9-b21ec5d5aa3a)
+![Screenshot 2025-04-04 051522](https://github.com/user-attachments/assets/f6d6cbbe-c2de-4e0b-9e0f-9576500f896d)
+
 
 Once your virtual machine has been created, wait for the status to say "Running" and as you can see here on the following
 image above, we now have a public ip address and we will use this in order to connect to the virtual machine we created.
