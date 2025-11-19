@@ -68,7 +68,8 @@ After your page has loaded, click create and the virtual machine will now begin 
 Once your virtual machine has been created, wait for the status to say "Running" and as you can see here on the following
 image above, we now have a public ip address and we will use this in order to connect to the virtual machine we created.
 
-![Screenshot 2025-04-04 051707](https://github.com/user-attachments/assets/51ec3508-9a50-4e9c-9612-7e77e103914b)
+![Screenshot 2025-04-04 051707](https://github.com/user-attachments/assets/646e4452-a888-4bf7-98f0-2a0f239a149a)
+
 
 On your Windows PC or if you're on Mac, open up Remote Desk Connection and enter the public ip address of the virtual machine. Click "Connect". 
 You will then have another screen pop up as shown on the following image down below.
