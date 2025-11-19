@@ -44,7 +44,8 @@ give a name to your virtual machine, I named mine azureuser, and for region you 
 remaining options as default. Exactly how it shows here on this image provided for this step, we have a little more to go.
 
 
-![Screenshot 2025-04-04 051353](https://github.com/user-attachments/assets/12101717-f744-44f2-8dc0-cbee7b651e64)
+![Screenshot 2025-04-04 051353](https://github.com/user-attachments/assets/3af969fb-e0e1-45fc-95b3-b29ea9055166)
+
 
 For the image we chose Windows 11 because this machine will just be on a client for Windows 11, so select this image,
 for the size, this depends on your needs and how fast you want your virtual machine to operate, but I chose this one, 
