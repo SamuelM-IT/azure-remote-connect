@@ -57,7 +57,8 @@ and for username, choose a username you won't forget and do the same for your pa
 Don't forget to checkmark this box for the licensing rights, after that, you can now click on "Review + create".
 
 
-![Screenshot 2025-04-04 051446](https://github.com/user-attachments/assets/4f358d24-ff04-4ce3-b4ff-3a512bafba99)
+![Screenshot 2025-04-04 051446](https://github.com/user-attachments/assets/9717d267-d64f-491a-bc5f-a3642badcf49)
+
 
 After your page has loaded, click create and the virtual machine will now begin to deploy.
 
