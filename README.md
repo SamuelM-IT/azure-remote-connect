@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of virtual machines an
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 11 Pro</b> (25h2)
 
 <h2>List of Prerequisites</h2>
 
