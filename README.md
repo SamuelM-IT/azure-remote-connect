@@ -82,11 +82,13 @@ Enter the credentials of the virtual machine you created. Click "Ok".
 
 This screen will pop up if done correctly, click "Yes".
 
-![Screenshot 2025-04-04 051757](https://github.com/user-attachments/assets/89db14eb-f706-492e-ad3e-9a0807dbd369)
+![Screenshot 2025-04-04 051757](https://github.com/user-attachments/assets/105d2d2a-a745-47d1-a26f-f4ee9571bca6)
+
 
 Connecting to the virtual machine begins...
 
-![Screenshot 2025-04-04 051828](https://github.com/user-attachments/assets/28e9d772-1bf9-4500-aff3-2713c33a6f4e)
+![Screenshot 2025-04-04 051828](https://github.com/user-attachments/assets/cdfcd51a-68ce-47f9-8f0b-26a17c8af2c8)
+
 
 If successful, your screen should look like this. You have now successfully created a virtual machine and connected 
 via remote desktop connection. If you are done using the virtual machine, you can go back to Azure dashboard, type
